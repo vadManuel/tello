@@ -8,3 +8,6 @@ Used ssd_mobilenet_v1_coco for transfer learning
 
 TfRecords Help
 > https://pythonprogramming.net/creating-tfrecord-files-tensorflow-object-detection-api-tutorial/
+
+TelloPy
+> https://github.com/hanyazou/TelloPy
