@@ -1,0 +1,16 @@
+images/
+data/
+dockerfiles/
+ssd_mobilenet_v1_coco_2018_01_28/
+ssd_mobilenet_v1_coco_2017_11_17/
+ssd_mobilenet_v1_ppn_coco/
+samples/
+training/train.record
+test_data/
+test_images/
+test_ckpt/
+samples/
+legacy/
+object_detection_tutorial.ipynb
+ssd_mobilenet_v1_coco_2017_11_17.tar.gz
+.ipynb_checkpoints/
